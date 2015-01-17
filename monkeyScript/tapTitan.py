@@ -74,7 +74,7 @@ def help():
 	print '\tCOMMAND\t\t DESCRIPTION'
 	print '\tstart\t\t going to start the clicking loop'
 	print '\tstop\t\t going to stop the clicking loop'
-	print '\tpoint\t\t set pointer location (x and y are integer)'
+	print '\tpointer\t\t set pointer location (x and y are integer)'
 	print '\tclick\t\t click the screen one time (x and y are integer)'
 	print '\tdelay\t\t set the delay between clicks when start\n\t\t\t ( best for',delay,')'
 	print '\tresolution\t set the screen solution for better experience\n\t\t\t ( def is',resolution[0],'x',resolution[1],')'
