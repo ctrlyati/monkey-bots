@@ -1,1 +1,1 @@
-./tools/monkeyrunner.bat monkeyScript/run.py
+android-sdk/tools/monkeyrunner.bat monkeyScript/tapTitan.py
