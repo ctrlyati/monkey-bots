@@ -23,6 +23,7 @@ monkeyScript
 TapTitans.bat
 README.md
 ```
+หลัง จากนั้นให้เข้าไปใน android-sdk แล้วทำการรัน SDK Manager และ install ตัว tools/Android SDK Platform-tools ให้เสร็จ (เพียงไฟล์เดียวก็พอ)
 
 ##Usage
 ให้เปิดเกมให้เสร็จ แล้วรัน TapTitans.bat ที่เหลือ อ่านเอาข้างในแล้วกัน
